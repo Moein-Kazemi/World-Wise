@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "id": "9006",
+      "cityName": "Tramacastilla",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-04-26T11:05:19.673Z",
+      "notes": "nice city",
+      "position": {
+        "lat": "40.82645557855153",
+        "lng": "-3.0202207031249966"
+      }
+    },
+    {
+      "id": "c9e2",
+      "cityName": "Sumavske Hostice",
+      "country": "Czechia",
+      "emoji": "🇨🇿",
+      "date": "2025-04-26T11:05:45.728Z",
+      "notes": "this one is my favorite\n",
+      "position": {
+        "lat": "49.04020877252443",
+        "lng": "13.87622594833374"
+      }
+    },
+    {
+      "id": "26bd",
+      "cityName": "Isfahan",
+      "country": "Iran (Islamic Republic of)",
+      "emoji": "🇮🇷",
+      "date": "2025-05-22T09:01:06.780Z",
+      "notes": "i live in esfahan in the past and its great to see my native people again",
+      "position": {
+        "lat": "32.48544658449641",
+        "lng": "51.786117553710945"
+      }
+    }
+  ]
+}
